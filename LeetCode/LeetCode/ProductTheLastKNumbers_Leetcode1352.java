@@ -5,8 +5,7 @@ public class ProductTheLastKNumbers_Leetcode1352 {
         Scanner sc = new Scanner(System.in);
     }
 
-    static class ProductOfNumbers {q
-
+    static class ProductOfNumbers {
         // Stores cumulative product of the stream
         private ArrayList<Integer> prefixProduct = new ArrayList<>();
         private int size = 0;

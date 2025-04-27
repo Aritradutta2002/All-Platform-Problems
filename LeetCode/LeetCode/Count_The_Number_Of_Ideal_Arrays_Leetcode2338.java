@@ -9,6 +9,6 @@ public class Count_The_Number_Of_Ideal_Arrays_Leetcode2338 {
         System.out.println(idealArrays(n, maxValue));
     }
     public static int idealArrays(int n, int maxValue) {
-        
+        return 0;
     }
 }

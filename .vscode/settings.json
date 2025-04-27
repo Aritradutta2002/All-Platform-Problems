@@ -4,5 +4,6 @@
         "CodeChef",
         "CSESProblems",
         "CodeForces"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
