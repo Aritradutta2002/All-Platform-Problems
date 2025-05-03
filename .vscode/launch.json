@@ -1,0 +1,567 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Appartments",
+            "request": "launch",
+            "mainClass": "CSESProblems.Appartments",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "BitStrings",
+            "request": "launch",
+            "mainClass": "CSESProblems.BitStrings",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CoinPiles",
+            "request": "launch",
+            "mainClass": "CSESProblems.CoinPiles",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CommonDivisors",
+            "request": "launch",
+            "mainClass": "CSESProblems.CommonDivisors",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountDivisorsOptimized",
+            "request": "launch",
+            "mainClass": "CSESProblems.CountDivisorsOptimized",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountingDivisors",
+            "request": "launch",
+            "mainClass": "CSESProblems.CountingDivisors",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CreatingStrings",
+            "request": "launch",
+            "mainClass": "CSESProblems.CreatingStrings",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "DistinctNumbers",
+            "request": "launch",
+            "mainClass": "CSESProblems.DistinctNumbers",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Divisor_Analysis",
+            "request": "launch",
+            "mainClass": "CSESProblems.Divisor_Analysis",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Exponentiation",
+            "request": "launch",
+            "mainClass": "CSESProblems.Exponentiation",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "ExponentiationII",
+            "request": "launch",
+            "mainClass": "CSESProblems.ExponentiationII",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "IncreasingArray",
+            "request": "launch",
+            "mainClass": "CSESProblems.IncreasingArray",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "JosephusQueries",
+            "request": "launch",
+            "mainClass": "CSESProblems.JosephusQueries",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubArraySum2",
+            "request": "launch",
+            "mainClass": "CSESProblems.MaximumSubArraySum2",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarraySum",
+            "request": "launch",
+            "mainClass": "CSESProblems.MaximumSubarraySum",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MissingCoinSum",
+            "request": "launch",
+            "mainClass": "CSESProblems.MissingCoinSum",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MovieFestival",
+            "request": "launch",
+            "mainClass": "CSESProblems.MovieFestival",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "NumberSpiral",
+            "request": "launch",
+            "mainClass": "CSESProblems.NumberSpiral",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "PalindromeReorder",
+            "request": "launch",
+            "mainClass": "CSESProblems.PalindromeReorder",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Permutations",
+            "request": "launch",
+            "mainClass": "CSESProblems.Permutations",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "RestaurantCustomers",
+            "request": "launch",
+            "mainClass": "CSESProblems.RestaurantCustomers",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SubarraySumsI",
+            "request": "launch",
+            "mainClass": "CSESProblems.SubarraySumsI",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDivisors",
+            "request": "launch",
+            "mainClass": "CSESProblems.SumOfDivisors",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfThreeValues",
+            "request": "launch",
+            "mainClass": "CSESProblems.SumOfThreeValues",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SumTwoValues",
+            "request": "launch",
+            "mainClass": "CSESProblems.SumTwoValues",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "CSESProblems.TowerOfHanoi",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TrailingZeros",
+            "request": "launch",
+            "mainClass": "CSESProblems.TrailingZeros",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TwoKnights",
+            "request": "launch",
+            "mainClass": "CSESProblems.TwoKnights",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TwoSets",
+            "request": "launch",
+            "mainClass": "CSESProblems.TwoSets",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "UniqueElement",
+            "request": "launch",
+            "mainClass": "CSESProblems.UniqueElement",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "weirdAlgorithm",
+            "request": "launch",
+            "mainClass": "CSESProblems.weirdAlgorithm",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "InternationalGymDay",
+            "request": "launch",
+            "mainClass": "CodeChef.InternationalGymDay",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "AlternatingString",
+            "request": "launch",
+            "mainClass": "CodeForces.AlternatingString",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "CodeForces.B",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "CodeForces.C",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CF_2004B",
+            "request": "launch",
+            "mainClass": "CodeForces.CF_2004B",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CF_2010A",
+            "request": "launch",
+            "mainClass": "CodeForces.CF_2010A",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CF_2010B",
+            "request": "launch",
+            "mainClass": "CodeForces.CF_2010B",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LongestGoodArray",
+            "request": "launch",
+            "mainClass": "CodeForces.LongestGoodArray",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SakurakoBox",
+            "request": "launch",
+            "mainClass": "CodeForces.SakurakoBox",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SakurakoExam",
+            "request": "launch",
+            "mainClass": "CodeForces.SakurakoExam",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SquareOrNot",
+            "request": "launch",
+            "mainClass": "CodeForces.SquareOrNot",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBinaryTree_LeetCode110",
+            "request": "launch",
+            "mainClass": "LeetCode.BalancedBinaryTree_LeetCode110",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "ClearDigits_LeetCode3174",
+            "request": "launch",
+            "mainClass": "LeetCode.ClearDigits_LeetCode3174",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Convert_1D_Array_Into_2D_Array",
+            "request": "launch",
+            "mainClass": "LeetCode.Convert_1D_Array_Into_2D_Array",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountGoodNumbers_Leetcode1922",
+            "request": "launch",
+            "mainClass": "LeetCode.CountGoodNumbers_Leetcode1922",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountNumberConsistentStrings",
+            "request": "launch",
+            "mainClass": "LeetCode.CountNumberConsistentStrings",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountNumberOfBadPairs_LeetCode2364",
+            "request": "launch",
+            "mainClass": "LeetCode.CountNumberOfBadPairs_LeetCode2364",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "CountOfGoodIntegers",
+            "request": "launch",
+            "mainClass": "LeetCode.CountOfGoodIntegers",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Count_Subarrays_Where_Max_Element_Appears_AtLeast_K_Times",
+            "request": "launch",
+            "mainClass": "LeetCode.Count_Subarrays_Where_Max_Element_Appears_AtLeast_K_Times",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Count_Subarrays_With_Fixed_Bounds",
+            "request": "launch",
+            "mainClass": "LeetCode.Count_Subarrays_With_Fixed_Bounds",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Count_The_Hidden_Sequences_Leetcode2145",
+            "request": "launch",
+            "mainClass": "LeetCode.Count_The_Hidden_Sequences_Leetcode2145",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Count_The_Number_Of_Ideal_Arrays_Leetcode2338",
+            "request": "launch",
+            "mainClass": "LeetCode.Count_The_Number_Of_Ideal_Arrays_Leetcode2338",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Count_the_Number_of_Fair_Pairs",
+            "request": "launch",
+            "mainClass": "LeetCode.Count_the_Number_of_Fair_Pairs",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingObservations",
+            "request": "launch",
+            "mainClass": "LeetCode.FindMissingObservations",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Find_Numbers_with_Even_Number_Of_Digits",
+            "request": "launch",
+            "mainClass": "LeetCode.Find_Numbers_with_Even_Number_Of_Digits",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "GraphTraversal",
+            "request": "launch",
+            "mainClass": "LeetCode.GraphTraversal",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "LeetCode.IntersectionOfTwoSortedArrays",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LargestOddNumInString",
+            "request": "launch",
+            "mainClass": "LeetCode.LargestOddNumInString",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode1790",
+            "request": "launch",
+            "mainClass": "LeetCode.LeetCode1790",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LeetCode_3160",
+            "request": "launch",
+            "mainClass": "LeetCode.LeetCode_3160",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode_2342_MaxSumPairWithEqualSumDigits",
+            "request": "launch",
+            "mainClass": "LeetCode.Leetcode_2342_MaxSumPairWithEqualSumDigits",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode_2948",
+            "request": "launch",
+            "mainClass": "LeetCode.Leetcode_2948",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode_3066",
+            "request": "launch",
+            "mainClass": "LeetCode.Leetcode_3066",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LetterTilePossibilities_Leetcode1079",
+            "request": "launch",
+            "mainClass": "LeetCode.LetterTilePossibilities_Leetcode1079",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "LexicographicalNumbers",
+            "request": "launch",
+            "mainClass": "LeetCode.LexicographicalNumbers",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MakeTheStringGreat_LeetCode1544",
+            "request": "launch",
+            "mainClass": "LeetCode.MakeTheStringGreat_LeetCode1544",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "MaximumAscendingSubarraySum",
+            "request": "launch",
+            "mainClass": "LeetCode.MaximumAscendingSubarraySum",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Candies_Allocated_ToK_Children",
+            "request": "launch",
+            "mainClass": "LeetCode.Maximum_Candies_Allocated_ToK_Children",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "ProductTheLastKNumbers_Leetcode1352",
+            "request": "launch",
+            "mainClass": "LeetCode.ProductTheLastKNumbers_Leetcode1352",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Rabbits_In_Forest_Leetcode781",
+            "request": "launch",
+            "mainClass": "LeetCode.Rabbits_In_Forest_Leetcode781",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveAllOccurrencesOfSubstring_Leetcode1910",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveAllOccurrencesOfSubstring_Leetcode1910",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "RemoveOutermostParentheses_Leetcode1021",
+            "request": "launch",
+            "mainClass": "LeetCode.RemoveOutermostParentheses_Leetcode1021",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Set_Matrix_Zeroes_Leetcode73",
+            "request": "launch",
+            "mainClass": "LeetCode.Set_Matrix_Zeroes_Leetcode73",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "SumOfDigitsString",
+            "request": "launch",
+            "mainClass": "LeetCode.SumOfDigitsString",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TakeGiftsFromRichestPile_2571",
+            "request": "launch",
+            "mainClass": "LeetCode.TakeGiftsFromRichestPile_2571",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "LeetCode.Test",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "ThreeSum",
+            "request": "launch",
+            "mainClass": "LeetCode.ThreeSum",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "TupleWithSameProduct_LeetCode1726",
+            "request": "launch",
+            "mainClass": "LeetCode.TupleWithSameProduct_LeetCode1726",
+            "projectName": "All-Platform-Problems_ff71579c"
+        }
+    ]
+}

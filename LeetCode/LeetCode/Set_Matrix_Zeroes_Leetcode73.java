@@ -1,6 +1,5 @@
 package LeetCode;
-import java.util.Arrays;
-
+import java.util.*;
 
 public class Set_Matrix_Zeroes_Leetcode73 {
     public static void main(String[] args) {
