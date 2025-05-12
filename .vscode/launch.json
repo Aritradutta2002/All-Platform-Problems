@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Finding_3Digit_Even_Numbers_Leetcode2084",
+            "request": "launch",
+            "mainClass": "LeetCode.Finding_3Digit_Even_Numbers_Leetcode2084",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Equivalent_Domino_Pairs_Leetcode1128",
+            "request": "launch",
+            "mainClass": "LeetCode.Number_Of_Equivalent_Domino_Pairs_Leetcode1128",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
+            "name": "Length_of_Longest_Subarray_With_AtMost_K_Frequency_Leetcode2958",
+            "request": "launch",
+            "mainClass": "LeetCode.Length_of_Longest_Subarray_With_AtMost_K_Frequency_Leetcode2958",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
