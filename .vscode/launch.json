@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TotalCharactersInStringAfterTransformationsI_Leetcode3335",
+            "request": "launch",
+            "mainClass": "LeetCode.TotalCharactersInStringAfterTransformationsI_Leetcode3335",
+            "projectName": "All-Platform-Problems_ff71579c"
+        },
+        {
+            "type": "java",
             "name": "Finding_3Digit_Even_Numbers_Leetcode2084",
             "request": "launch",
             "mainClass": "LeetCode.Finding_3Digit_Even_Numbers_Leetcode2084",
