@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SortColors_Leetcode75",
+      "request": "launch",
+      "mainClass": "LeetCode.SortColors_Leetcode75",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
+      "name": "LongestUnequalAdjacentGroupsSubsequenceII_Leetcode2901",
+      "request": "launch",
+      "mainClass": "LeetCode.LongestUnequalAdjacentGroupsSubsequenceII_Leetcode2901",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
       "name": "Longest_Unequal_Adjacent_Groups_Subsequence_I_Leetcode2900",
       "request": "launch",
       "mainClass": "LeetCode.Longest_Unequal_Adjacent_Groups_Subsequence_I_Leetcode2900",
