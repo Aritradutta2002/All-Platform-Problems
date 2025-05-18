@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Find_Center_of_Star_Graph_Leetcode1791",
+      "request": "launch",
+      "mainClass": "LeetCode.Find_Center_of_Star_Graph_Leetcode1791",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
+      "name": "PaintingGridWithThreeDifferentColors_Leetcode1931",
+      "request": "launch",
+      "mainClass": "LeetCode.PaintingGridWithThreeDifferentColors_Leetcode1931",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
       "name": "SortColors_Leetcode75",
       "request": "launch",
       "mainClass": "LeetCode.SortColors_Leetcode75",
