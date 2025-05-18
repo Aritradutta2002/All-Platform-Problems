@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NextPrime",
+      "request": "launch",
+      "mainClass": "CSESProblems.NextPrime",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
+      "name": "NextPrimenew",
+      "request": "launch",
+      "mainClass": "CSESProblems.NextPrimenew",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
+      "name": "Next_Prime",
+      "request": "launch",
+      "mainClass": "CSESProblems.Next_Prime",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
       "name": "Find_Center_of_Star_Graph_Leetcode1791",
       "request": "launch",
       "mainClass": "LeetCode.Find_Center_of_Star_Graph_Leetcode1791",
