@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BalancedBinaryTree_LeetCode110",
+      "request": "launch",
+      "mainClass": "LeetCode_Problems.BalancedBinaryTree_LeetCode110",
+      "projectName": "All-Platform-Problems_ff71579c"
+    },
+    {
+      "type": "java",
       "name": "TypeOfTriangle",
       "request": "launch",
       "mainClass": "LeetCode.TypeOfTriangle",
